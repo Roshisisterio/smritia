@@ -1,0 +1,30 @@
+h1{
+    font: 30px/37px Adobe Clean;
+    font-weight: 900;
+    color: #1e2531;
+ font-size: larger;
+    font-style: italic;
+    font-size:xx-large;
+    position: relative;
+    left: 100px;
+}
+body{
+   background-color: #deeaee;
+}
+.image{
+}
+h2{
+    color: red;
+    font-size: 500%;
+    margin-left: 50%;
+   
+    
+    MARGIN-TOP: -40%;
+}
+video{
+    width: 35%;
+    height: 30%;
+margin-left:800px;
+
+}
+
