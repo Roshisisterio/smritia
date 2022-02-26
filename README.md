@@ -1,1 +1,1 @@
-# smritia
+# smriti web
